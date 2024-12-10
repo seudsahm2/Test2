@@ -1,2 +1,3 @@
 print("hello")
-print("cnmbfs")
+print("dani")
+print("amazing")
